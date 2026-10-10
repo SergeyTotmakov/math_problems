@@ -1,6 +1,6 @@
 # math_problems
 
-Олимпиадные задачи по математике с решениями (на русском языке).
+Авторские олимпиадные задачи по математике с решениями (на русском языке).
 *Olympiad-style math problems with solutions (in Russian).*
 
 Полный список условий — в файле [Problems_PR.pdf](Problems_PR.pdf).
